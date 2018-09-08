@@ -1,0 +1,24 @@
+Webgl
+Arredondamento das bordas
+Pacman que abre a boca
+Inverter cores ao final
+
+Enconstar em um fantasma
+{
+	if cor = original{
+	Morrer e retornar todos a posição inicial.
+	}
+	if cor  = blue{
+	outline do fantasma se dirige a origem em alta velocidade.
+	} 
+}
+
+Diminuir tamanho das paredes transparentes
+Pontuação.
+Menu
+
+
+
+Programas utilizados:
+Dev C++ on Windows 7/8
+Color Pic
